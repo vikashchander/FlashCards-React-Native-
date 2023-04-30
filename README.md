@@ -1,4 +1,4 @@
-# Udacity ReactND Project - Mobile Flashcards
+# Mobile Flashcards
 
 <img src="./assets/splash.png" align="left" width="100" /><br/>
 The Mobile Flashcards app is the 3rd and final project required for the Udacity React Nanodegree program. 
